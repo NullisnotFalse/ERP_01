@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'erp',
-
+    'users',
 
     'django.contrib.admin',
     'django.contrib.auth',
